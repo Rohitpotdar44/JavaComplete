@@ -1,0 +1,25 @@
+java is not application it is a collection of tools
+
+install java means install latest version of JDK
+
+There are multiple jdk provided my multiple organisations -  openjdk.org ([original]used as reference for other versions)
+                                                          -  But for proper binaries use ADOPTIUM.NET - then download JDK
+                                                            Steps-
+                                                                1. next
+                                                                2. next
+                                                                3. set java home variable - select 1st option
+                                                                4. skip last option
+                                                                5. next
+                                                                6. install  
+                                                                7. finish
+                                                                8. open cmd
+                                                                9. write java -version  ( with LTS)
+                                                                10.also  javac -version (with LTS)
+                                                                11.if not showing go to environment variables
+                                                                12.system variables- path - edit (see if already available or not)-  put bin path -program files-eclipse adoptium-jdk-bin-java(application file path) - new -add new path -apply 
+
+History- 
+        Founder- James Gosling
+        Developed by - sun microsystems in 1995
+        open source in - 2006 
+        inspired from - OAK tree 

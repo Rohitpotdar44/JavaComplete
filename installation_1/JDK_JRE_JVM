@@ -1,0 +1,24 @@
+JDK-tools and libraies by using this we can write java code (DEBUGGER-COMPILER) JDK CONSISTS JRE
+JRE-Provide envirenment to run java programs , JRE CONSISTS JVM
+JVM-Finally java program runs in JVM
+        Steps-
+             1.our file eg. test.java is compiled into byte code by COMPILER
+             2.byte code- platform independent (understood by machine only)   
+             3.byte code interperate by jvm line by line and result is machine code
+             4.machine code- 0 and 1
+             5.create one file eg. test.java
+             6.write
+                    class Test{
+                            public static void main(String[] args)
+                            {
+                                System.out.println("Hello World!");
+                            }
+                    }
+             7.run in cmd - javac test.java (compilation) -.class file created-contains bytecode-only understood by jvm
+                            java test  
+                            output
+             8.interperate line by line means
+               parse- 1.to group by instructions 
+                      2.to execute instructions line by line                   so interperater is slow than compiler 
+          
+             9.JUST IN TIME COMPILER - if some funtion is used repetedly then insted of multiple interpretaion it compiled - so interpreter used that compiled code         

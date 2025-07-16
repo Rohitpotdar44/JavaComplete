@@ -1,0 +1,6 @@
+1. variables are case sensitive
+2. variable cantains -
+                        1. letters
+                        2. underscores
+                        3. $ symbol
+                        4. numbers (not start with numbers)

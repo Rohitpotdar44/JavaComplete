@@ -1,0 +1,566 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SetOverview",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Set_7.SetOverview",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ParallelStreams_5",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Streams_11.ParallelStreams_5",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "StreamExample_4",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Streams_11.StreamExample_4",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "IntermediateOperations_2",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Streams_11.IntermediateOperations_2",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Streams_11.StreamDemo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Supplier_5",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.java8Basics_10.Supplier_5",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Consumer_4",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.java8Basics_10.Consumer_4",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "function_3",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.java8Basics_10.function_3",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Predicate_2",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.java8Basics_10.Predicate_2",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "IterableDemo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Itrerable_9.IterableDemo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrentLinkedDeque_8",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.ConcurrentLinkedDeque_8",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrentLinkedQueue_7",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.ConcurrentLinkedQueue_7",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "DelayQueue_6",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.DelayQueue_6",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "SynchronousQueue_5",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.SynchronousQueue_5",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "BlockingQueue_4",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.BlockingQueue_4",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "DoubleEndedQueue_3",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.DoubleEndedQueue_3",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueDemo_2",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.PriorityQueueDemo_2",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "QueueDemo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Queue_8.QueueDemo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "CopyOnWriteArraySetDemo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Set_7.CopyOnWriteArraySetDemo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "SetOverview",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.Set_7.SetOverview",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "HashTable_11",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.HashTable_11",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "NavigableMap_10",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.NavigableMap_10",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_Map_9",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.Sorted_Map_9",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Comaprable_8",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.comparable_8.Comaprable_8",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "IdentityHashMap_7",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.IdentityHashMap_7",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "HashMap_equals_method_2",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.HashMap_equals_method_2",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "WeakHashMap_6",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.WeakHashMap_6",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "GarbageCollection",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.GarbageCollection",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "LRUCache_4",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.LRUCache_4",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashMap_3",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.LinkedHashMap_3",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "HashMap_equals_method",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.HashMap_equals_method",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "HashMap_1",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Map_6.HashMap_1",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.CopyOnWriteArrayList_6.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Stack_5.StackDemo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Vector_4.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.LinkedList_3.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.Comparator_2.Main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Collections_Framework_and_Streams_Masterclass_35.ArrayList_1.Main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Generics_33.GenericExcaptions_5.Main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Generics_33.Wildcards_3.Main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Generics_33.GenericType_2.GenericMethods_6.Test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Generics_33.GenericType_2.GenericConstructor_5.Test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Constructors_18.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Generics_33.GenericType_2.Bounded_Type_Parameters_3.Test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Interfaces_25.how_to_achieve_multiple_inheritance.Test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Generics_33.GenericType_2.GenericInterfaace.Main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Generics_33.GenericType_2.Generic_Class.Main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "WhyGenericsNeeded",
+            "request": "launch",
+            "mainClass": "Generics_33.WhyGenericsNeeded",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "AtomicKeyword",
+            "request": "launch",
+            "mainClass": "Volatile_Keyword_32.AtomicKeyword",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "VolatileKeyword",
+            "request": "launch",
+            "mainClass": "Volatile_Keyword_32.VolatileKeyword",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "CyclicBarrier_5",
+            "request": "launch",
+            "mainClass": "multithreading_31.ExecutorsFramework_10.CyclicBarrier_5",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "CountDownLatch_4",
+            "request": "launch",
+            "mainClass": "multithreading_31.ExecutorsFramework_10.CountDownLatch_4",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ScheduledExecutorService_3",
+            "request": "launch",
+            "mainClass": "multithreading_31.ExecutorsFramework_10.ScheduledExecutorService_3",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Main_2",
+            "request": "launch",
+            "mainClass": "multithreading_31.ExecutorsFramework_10.Main_2",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ExecutorFramework",
+            "request": "launch",
+            "mainClass": "multithreading_31.ExecutorsFramework_10.ExecutorFramework",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExpression",
+            "request": "launch",
+            "mainClass": "multithreading_31.lambda_Expression_8.LambdaExpression",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ThreadCommunication",
+            "request": "launch",
+            "mainClass": "multithreading_31.Thread_communication_6.ThreadCommunication",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "DeadlockExample",
+            "request": "launch",
+            "mainClass": "multithreading_31.locking_5.deadlock_4.DeadlockExample",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "ReadWriteCounter",
+            "request": "launch",
+            "mainClass": "multithreading_31.locking_5.read_write_lock_3.ReadWriteCounter",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "FairnessLockExample",
+            "request": "launch",
+            "mainClass": "multithreading_31.locking_5.fairness_of_lock.FairnessLockExample",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Reentrant_example",
+            "request": "launch",
+            "mainClass": "multithreading_31.locking_5.lock_1.Reentrant_example",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "multithreading_31.locking_5.lock_1.main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.locking_5.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.synchronization.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_methods_3.setDeamon_6.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_methods_3.yield_5.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_methods_3.interrupt_4.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_methods_3.set_priority_3.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_methods_3.sleep_2.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_methods_3.start_run_1.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "myThread",
+            "request": "launch",
+            "mainClass": "multithreading_31.thread_lifecycle_2.myThread",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "multithreading_31.accessing_thread_1.second_way.main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "multithreading_31.accessing_thread_1.first_way.main",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Patterns_11.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Enums_30.using_enums.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Enums_30.without_enums.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "wrapper_classes_28.Demo",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "Exception_27.Custom_exceptions_4.custom_way.test",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "run_time_polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism_20.run_time.run_time_polymorphism",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": "Polymorphism_20.run_time.run_time_polymorphism",
+            "projectName": "JAVA COMPLETE_24ac897d"
+        }
+    ]
+  }
+  
